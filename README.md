@@ -8,4 +8,4 @@ MUHAMMAD FAUZAN MAJID,
 SIGIT PAMUNGKAS,
 HABIBIE RIZQI ZAHIR
 
-LINK VIDEO WAWANCARA DESIGN : https://drive.google.com/drive/folders/12amCBk89Mzc7_8MRz6E-JxCVpPhWFtca?usp=sharing
+LINK VIDEO WAWANCARA DESIGN, implementasi : https://drive.google.com/drive/folders/12amCBk89Mzc7_8MRz6E-JxCVpPhWFtca?usp=sharing
