@@ -9,3 +9,8 @@ SIGIT PAMUNGKAS,
 HABIBIE RIZQI ZAHIR
 
 LINK VIDEO WAWANCARA DESIGN, IMPLEMENTASI, UAT, USER GUIDE : https://drive.google.com/drive/folders/12amCBk89Mzc7_8MRz6E-JxCVpPhWFtca?usp=sharing
+link cust :
+https://pempek-fe.vercel.app
+
+link admin :
+https://pempek-fe.vercel.app/login
